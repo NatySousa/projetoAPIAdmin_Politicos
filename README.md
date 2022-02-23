@@ -1,12 +1,12 @@
-            API Políticos Admin
+<h2 align="center"> ## API Admin Políticos :trollface:</h2>
 
-°Auth_API_Politicos            
+<h3 align="justify"> °Auth_API_Politicos  :pushpin:</h3>         
 
-![Auth_API_Politicos](/uploads/141ee1612c3b43b96f975d1411dd9b40/Auth_API_Politicos.jpg)
+![Auth API Politicos](https://user-images.githubusercontent.com/80427838/155390238-6c5e7c8a-6e87-4b01-b98b-ffe4ecc6c198.jpg)
  
-
- °Entidades
-
-![Entidades_API_Politicos](/uploads/183995a8a988b189d7bc0d3d1c4b6c48/Entidades_API_Politicos.jpg)
+<h3 align="justify">°Entidades  :pushpin:</h3> 
  
-![Entidades_API_Politicos_2](/uploads/6f186648016ca25bfafea17bcc06c4cf/Entidades_API_Politicos_2.jpg)
+![Entidades API Politicos](https://user-images.githubusercontent.com/80427838/155390399-a8dbdc86-415e-4ff9-9020-4a081c39b16d.jpg)
+ 
+![Entidades API Politicos 2](https://user-images.githubusercontent.com/80427838/155390472-5c576577-45ff-49d1-9dbc-25c30c0d5d07.jpg)
+
